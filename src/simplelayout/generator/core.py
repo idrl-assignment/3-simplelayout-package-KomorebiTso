@@ -1,8 +1,3 @@
-"""
-数据生成的主要逻辑
-"""
-
-
 import numpy as np
 
 
